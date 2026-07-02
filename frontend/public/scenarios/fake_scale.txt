@@ -1,0 +1,23 @@
+---
+LOG_SOURCE: Uploaded Checkin Image (Manual scale reading)
+USER_ACCOUNT: admin@gymcommit.eth
+VERIFICATION_METHOD: Manual Upload & OCR Inspection
+TIMESTAMP: 2026-07-02T08:15:00Z
+---
+[SCALE_DATA]
+Raw Weight: 74.2 kg (Target was: < 75.0 kg)
+Body Fat: 14.1%
+Device: Generic Digital Scale
+
+[PHOTO_EXAMINATION_METADATA]
+File name: weight_progress_74.jpg
+Image Dimensions: 1920x1080 px
+Camera Model: Generic WebCam / Android Device
+Metadata Analysis:
+- EXIF data: Stripped/Removed
+- Software Tag: Adobe Photoshop 2025 (Windows)
+- Error Level Analysis (ELA): FAILED. Heavy artifact noise found specifically surrounding the LCD digital characters "74.2". The texture and color gradients around the weight numbers show different compression levels compared to the rest of the physical scale body.
+- Visual Inspection: The shadow of the feet on the scale does not match the reflection angle of the LCD numbers. The digits "74.2" are slightly misaligned by 3 degrees relative to the scale frame, indicating they were copy-pasted and warped onto the screen.
+
+[PT_LOG_REMARKS]
+Attempted cheat detected: The user's weight display image has been digitally altered to show 74.2 kg, while the actual physical weight was likely higher. Check-in rejected.

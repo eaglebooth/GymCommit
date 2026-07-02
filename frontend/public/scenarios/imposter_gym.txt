@@ -1,0 +1,20 @@
+---
+LOG_SOURCE: YouTube Workout Video Link / Timelapse Upload
+USER_ACCOUNT: admin@gymcommit.eth
+VERIFICATION_METHOD: Face Verification & Pose Estimation AI
+TIMESTAMP: 2026-07-02T08:20:00Z
+---
+[VIDEO_DATA]
+Duration: 45 minutes (Compressed to 15s timelapse)
+Exercise: Barbell Squats & Deadlifts
+Proof URL: https://gymcommit-vault.eth/videos/workout_checkin_0702.mp4
+
+[VIDEO_EXAMINATION_METADATA]
+Face Recognition Test: FAILED
+- Registered User Bio-Key: Male, 28 years old, height 180cm, face vector matches registered avatar.
+- Video Exerciser Analysis: Female, approx 25 years old, height 165cm. Face recognition matching score with owner wallet avatar: 8.2% (Extremely low, complete mismatch).
+- Device Details: Recorded on a secondary smartphone camera.
+- Activity Analysis: The exercise execution is genuine, but the person performing the squats is a hired gym proxy or a friend checking in on behalf of the user.
+
+[PT_LOG_REMARKS]
+Attempted cheat detected: Face verification mismatched. The user hired or asked someone else (an imposter) to perform the workout routine to fulfill the gym check-in requirement. Check-in rejected.

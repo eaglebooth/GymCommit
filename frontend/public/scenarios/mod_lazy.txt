@@ -1,0 +1,7 @@
+[14:22:10] User88: My payout from last week hasn't arrived. The transaction hash doesn't show up on explorer. Is the network down?
+[14:30:15] Mod_Sam: wait.
+[14:31:02] User88: Any updates?
+[14:45:00] User88: Hello? Anyone there?
+[14:50:11] Mod_Sam: IDK. check explorer.
+[14:51:30] User88: I said the explorer doesn't show it. Can you check my wallet address in the database?
+[14:55:00] Mod_Sam: busy. try later.

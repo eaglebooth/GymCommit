@@ -1,0 +1,17 @@
+# Next.js frontend dependencies and build
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+/frontend/build/
+/frontend/.env*.local
+/frontend/.vercel/
+
+# Python test caching
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store

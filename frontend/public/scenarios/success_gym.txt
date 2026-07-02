@@ -1,0 +1,23 @@
+---
+LOG_SOURCE: YouTube Workout Video Link / Timelapse Upload
+USER_ACCOUNT: admin@gymcommit.eth
+VERIFICATION_METHOD: Face Verification & Pose Estimation AI
+TIMESTAMP: 2026-07-02T08:30:00Z
+---
+[VIDEO_DATA]
+Duration: 60 minutes (Compressed to 20s timelapse)
+Exercise: Dumbbell Shoulder Press & Lateral Raises
+Proof URL: https://gymcommit-vault.eth/videos/workout_checkin_valid.mp4
+
+[VIDEO_EXAMINATION_METADATA]
+Face Recognition Test: PASSED
+- Registered User Bio-Key: Male, 28 years old, height 180cm, face matching score 98.6%.
+Pose Estimation:
+- 3 sets of Dumbbell Shoulder Press, 12 reps each. Full range of motion detected.
+- 3 sets of Lateral Raises, 15 reps each. Controlled eccentric movement.
+Metadata Analysis:
+- Video recording metadata shows local time 2026-07-02 07:15 AM matching gym geolocation.
+- No editing or frame drops detected.
+
+[PT_LOG_REMARKS]
+Check-in verified successfully. The registered user completed a 60-minute shoulder workout with great intensity and proper form. Check-in accepted.

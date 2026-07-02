@@ -1,0 +1,11 @@
+[10:15:32] User12: Hey, I am trying to connect my Metamask to the dashboard but it says "provider not found". Can anyone help?
+[10:16:04] Mod_Alex: Hello @User12! Welcome to our support channel. I'd be happy to help you with that.
+[10:16:21] Mod_Alex: The "provider not found" error usually happens if you don't have Metamask installed, or if your browser's extension is disabled.
+[10:16:45] User12: I have it installed on Brave.
+[10:17:05] Mod_Alex: Got it! Since you are on Brave browser, please make sure you check Brave's settings:
+1. Go to Settings -> Web3.
+2. Under "Default Ethereum wallet", change it to "Brave Wallet (Prefer Extension)" or "MetaMask".
+3. Refresh the tab and try again.
+[10:17:40] User12: Ah! Let me try...
+[10:18:15] User12: Wow it worked! Thank you so much @Mod_Alex, that was so fast!
+[10:18:30] Mod_Alex: Awesome! Glad to hear it solved your problem. Feel free to ping me or open a new ticket if you have any other questions. Have a great day!
